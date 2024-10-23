@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nagendra Pai</h1>
-<h3 align="center">A passionate Information Science student with a solid foundation in data analysis, machine learning, and programming.</h3>
+<h3 align="center">I'm an enthusiastic Information Science student with a strong foundation in data analysis, machine learning, and programming. My passion lies in exploring innovative solutions in technology and cybersecurity. I love tackling complex challenges and am always eager to learn new technologies and frameworks..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nagendra0228&label=Profile%20views&color=0e75b6&style=flat" alt="nagendra0228" /> </p>
 <div>
