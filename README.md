@@ -1,3 +1,4 @@
+![logo](https://github.com/Nagendra0228/Nagendra0228/blob/main/download.jpeg)
 <h1 align="center">Hi 👋, I'm Nagendra Pai</h1>
 <h3 align="center">A passionate Information Science student with a solid foundation in data analysis, machine learning, and programming.</h3>
 
