@@ -13,6 +13,10 @@
 
 - ⚡ Fun fact **I am funny**
 
+  <div align="right">
+  <img src="https://github.com/Nagendra0228/Nagendra0228/blob/main/download.jpeg" alt="Banner" />
+</div>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nagendra-pai-82b714246/?lipi=urn%3ali%3apage%3ad_flagship3_feed%3bkukd6c87r0kpdft8ecc5bq%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nagendra-pai-82b714246/?lipi=urn%3ali%3apage%3ad_flagship3_feed%3bkukd6c87r0kpdft8ecc5bq%3d%3d" height="30" width="40" /></a>
