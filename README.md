@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I am funny**
 
   <div align="right">
-  <img src="https://github.com/Nagendra0228/Nagendra0228/blob/main/download.jpeg" alt="Banner" />
+  <img src="https://github.com/Nagendra0228/Nagendra0228/blob/main/download.jpeg" alt="Banner" align="left" />
 </div>
 
 <h3 align="left">Connect with me:</h3>
