@@ -12,7 +12,7 @@
 - 📫 How to reach me **painagendra0228@gmail.com**
 
 - ⚡ Fun fact **I am funny**
-
+<img src="https://github.com/Nagendra0228/Nagendra0228/blob/main/download.jpeg" alt="Banner" align="right" />
   <div align="right">
   <img src="https://github.com/Nagendra0228/Nagendra0228/blob/main/download.jpeg" alt="Banner" align="left" />
 </div>
