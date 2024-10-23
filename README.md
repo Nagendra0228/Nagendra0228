@@ -3,6 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nagendra0228&label=Profile%20views&color=0e75b6&style=flat" alt="nagendra0228" /> </p>
 <div>
+  <img src="https://github.com/Nagendra0228/Nagendra0228/blob/main/download.jpeg" alt="Banner" align="right" />
 - 🌱 I’m currently learning **GenAI**
 
 - 👯 I’m looking to collaborate on **ML projects**
@@ -12,7 +13,7 @@
 - 📫 How to reach me **painagendra0228@gmail.com**
 
 - ⚡ Fun fact **I am funny**
-<img src="https://github.com/Nagendra0228/Nagendra0228/blob/main/download.jpeg" alt="Banner" align="right" />
+
 </div>
 
 <h3 align="left">Connect with me:</h3>
