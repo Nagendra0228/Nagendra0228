@@ -1,10 +1,9 @@
-![logo](https://github.com/Nagendra0228/Nagendra0228/blob/main/download.jpeg)
 <h1 align="center">Hi 👋, I'm Nagendra Pai</h1>
 <h3 align="center">A passionate Information Science student with a solid foundation in data analysis, machine learning, and programming.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nagendra0228&label=Profile%20views&color=0e75b6&style=flat" alt="nagendra0228" /> </p>
 
-- 🌱 I’m currently learning **GenAI**
+- 🌱 I’m currently learning **GenAI** <img src="https://github.com/Nagendra0228/Nagendra0228/blob/main/download.jpeg" alt="banner" width="50" height="50" style="display:inline;"/>
 
 - 👯 I’m looking to collaborate on **ML projects**
 
@@ -60,4 +59,4 @@
   <li>Tech Lead at <a href="https://www.hackerearth.com">HackerEarth</a></li>
 </ul>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nagendra0228&show_icons=true&locale=en&layout=compact" alt="nagendra0228
+<p><
