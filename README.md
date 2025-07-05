@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nagendra0228&label=Profile%20views&color=0e75b6&style=flat" alt="nagendra0228" /> </p>
 <div>
   <img src="https://github.com/Nagendra0228/Nagendra0228/blob/main/download.jpeg" alt="Banner" align="right" width="50%" />
-- 🌱 I’m currently learning **GenAI**
+- 🌱 I’m currently learning  **GenAI**
 
 - 👯 I’m looking to collaborate on **ML projects**
 
